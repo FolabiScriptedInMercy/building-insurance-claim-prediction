@@ -1,0 +1,4 @@
+YearOfObservation,Insured_Period,Residential,Building_Painted,Building_Fenced,Garden,Settlement,Building Dimension,Building_Type,Date_of_Occupancy,NumberOfWindows,Geo_Code,Description,Claim_Probability,Prediction
+2015,1.0,1,V,V,V,R,500,1,2014,2,6088,New Small Building (Low Risk Expected),0.20651184707333142,NO CLAIM
+2015,1.0,0,N,N,O,U,15000,4,1950,10,75101,Old Large Commercial (Higher Risk Expected),0.9675659044440006,CLAIM
+2015,1.0,1,N,N,O,U,100,1,1800,1,1053,Very Old Tiny Building (Unknown Risk),0.0008602063549060019,NO CLAIM
