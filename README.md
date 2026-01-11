@@ -1,5 +1,3 @@
-# building-insurance-claim-prediction
-Machine learning model to predict building insurance claims using LightGBM with 70% recall and 0.80 ROC-AUC
 # Building Insurance Claim Prediction Model
 
 ## 📋 Project Overview
@@ -52,6 +50,17 @@ A machine learning model to predict building insurance claims using LightGBM alg
 
 ## 📁 Repository Structure
 
+| File | Description |
+|------|-------------|
+| `Predictive_Building_Insurance_Modell.ipynb` | Main notebook |
+| `best_model_lightgbm.pkl` | Trained model |
+| `scaler.pkl` | Feature scaler |
+| `label_encoders.pkl` | Categorical encoders |
+| `geo_target_encoding.pkl` | Geo_Code mapping |
+| `optimal_threshold.pkl` | Decision threshold |
+| `sample_predictions.csv` | Test predictions |
+| `edge_case_predictions.csv` | Edge case results |
+| `*.png` | Visualizations |
 
 ## 🚀 How to Use
 
